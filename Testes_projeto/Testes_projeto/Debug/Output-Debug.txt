@@ -1,0 +1,23 @@
+﻿'Testes_projeto.exe' (Win32): Loaded 'C:\Users\David Braga\OneDrive\Ambiente de Trabalho\Uni\ATC 1 2ºano\Testes_projeto\Debug\Testes_projeto.exe'. Symbols loaded.
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'Testes_projeto.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. 
+The thread 0x57bc has exited with code 0 (0x0).
+The thread 0xd3c has exited with code -1073741510 (0xc000013a).
+The thread 0x6714 has exited with code -1073741510 (0xc000013a).
+The thread 0x6068 has exited with code -1073741510 (0xc000013a).
+The program '[16728] Testes_projeto.exe' has exited with code -1073741510 (0xc000013a).
